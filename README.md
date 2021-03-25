@@ -1,27 +1,6 @@
-# RoutingAngularMaterial
+# RoutingAngularMaterial output
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![AngularMaterial1](https://user-images.githubusercontent.com/79982684/112520321-4aea3680-8dc1-11eb-88d3-f1b2c8eaeed6.png)
+![Material2](https://user-images.githubusercontent.com/79982684/112520338-4f165400-8dc1-11eb-805f-a099d838af33.png)
+![Material3](https://user-images.githubusercontent.com/79982684/112520348-52a9db00-8dc1-11eb-95b8-97b9e231ff66.png)
+![Material4](https://user-images.githubusercontent.com/79982684/112520366-56d5f880-8dc1-11eb-9b7c-39e42dbb41df.png)
